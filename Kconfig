@@ -1,0 +1,4 @@
+config MY_LIB
+	bool "My library"
+	help
+	  Library which can add two numbers
